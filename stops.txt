@@ -1,0 +1,7 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Paseo Filipinos esquina Paseo Zorrilla,41.644698930441564, -4.7329060487760195
+2,Calle Puente Colgante 2 (Estación de Autobuses de Valladolid),41.64185731503579, -4.733477218569197
+3,Paseo Zorrilla 130 junto Centro Comercial,41.63702146892685, -4.739306645344675
+4,Avenida Medina del Campo 15 frente Centro Salud,41.63350539890822, -4.74744741971873
+5,Calle Felipe Ruíz Martín 6,41.63208608214567, -4.762981630575297
+6,Calle Me Falta un Tornillo junto Centro Comercial Río Shopping,41.62812517530064, -4.78778742078699
