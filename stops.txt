@@ -5,3 +5,5 @@ stop_id,stop_name,stop_lat,stop_lon
 4,Avenida Medina del Campo 15 frente Centro Salud,41.63350539890822, -4.74744741971873
 5,Calle Felipe Ruíz Martín 6,41.63208608214567, -4.762981630575297
 6,Calle Me Falta un Tornillo junto Centro Comercial Río Shopping,41.62812517530064, -4.78778742078699
+7,Avenida Medina del Campo frente 19 Centro Salud Arturo Eyríes,41.63366599157975, -4.747586721638301
+8,Calle Felipe Ruíz Martín IES José Jiménez Lozano,41.632473451177034, -4.765649488740167
